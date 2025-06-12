@@ -1,0 +1,48 @@
+*
+{
+    font-family: cursive;
+    text-align: center;   
+}
+.btn
+{
+    height: 100px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+.btn-container
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.line1
+{
+    display: inline;
+}
+.div1
+{
+    background-color: rgb(213, 228, 146);
+}
+.div2
+{
+    background-color: rgb(175, 104, 207);
+}
+.div3
+{
+    background-color: rgb(221, 132, 132);
+}
+.div4
+{
+    background-color: rgb(102, 188, 190);
+}
+.flash
+{
+    background-color: beige;
+}
+.userflash
+{
+    background-color: black;
+}
